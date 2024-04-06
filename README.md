@@ -3,6 +3,7 @@
 - 👋 Hi, I'm @aminata054
 - 👀 I'm interested in coding and programming
 - 🌱 I'm currently learning informatics engineering
+- 📫 How to reach me: [aminataba@esp.sn](mailto:aminataba@esp.sn)
 
 
 <!--
