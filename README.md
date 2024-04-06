@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 👋 Hi, I'm @aminata054
+- 👀 I'm interested in coding and programming
+- 🌱 I'm currently learning informatics engineering
+
+
 <!--
 **aminata054/aminata054** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
